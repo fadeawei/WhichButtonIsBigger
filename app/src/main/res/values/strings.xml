@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Which NumberIsBigger</string>
+    <string name="button_main_smallerchoice">smaller_number</string>
+    <string name="main_score">Score: 0</string>
+</resources>
